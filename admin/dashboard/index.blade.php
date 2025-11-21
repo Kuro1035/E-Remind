@@ -72,6 +72,7 @@ html { overflow-y: scroll; }
         </div>
     </div>
 
+<<<<<<< HEAD
         <!-- ===================== PERUBAHAN DITAMBAHKAN DI SINI ===================== -->
     <div class="col-lg-3 col-md-3 col-sm-12 pr-0 mb-3"> <!-- [PERUBAHAN] Tambahan card baru -->
         <div class="card text-white bg-primary"> <!-- [PERUBAHAN] Warna card baru -->
@@ -87,6 +88,12 @@ html { overflow-y: scroll; }
     <div class="col-lg-3 col-md-3 col-sm-12 pr-0 mb-3">
         <div class="card text-white bg-danger">
             <div class="card-header"><i class="fa fa-user-plus"></i> Indra</div>
+=======
+
+    <div class="col-lg-3 col-md-3 col-sm-12 pr-0 mb-3">
+        <div class="card text-white bg-danger">
+            <div class="card-header"><i class="fa fa-user-plus"></i> Shelomita </div>
+>>>>>>> atim
             <div class="card-body">
                 <h3 class="card-title">{{ $approvedRegistrations ?? 65 }}</h3>
             </div>
