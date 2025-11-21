@@ -72,32 +72,10 @@ html { overflow-y: scroll; }
         </div>
     </div>
 
-<<<<<<< HEAD
-        <!-- ===================== PERUBAHAN DITAMBAHKAN DI SINI ===================== -->
-    <div class="col-lg-3 col-md-3 col-sm-12 pr-0 mb-3"> <!-- Tambahan card baru -->
-        <div class="card text-white bg-primary"> <!-- Warna card baru -->
-            <div class="card-header"><i class="fa fa-eye"></i> Total Pengunjung</div> <!-- Judul baru -->
-            <div class="card-body">
-                <h3 class="card-title">{{ $totalVisitors ?? 120 }}</h3> <!-- Data baru -->
-            </div>
-            <a class="card-footer text-right text-white" href="#">Lihat Detail <i class="fa fa-arrow-circle-right"></i></a> <!-- Link baru -->
-        </div>
-    </div>
-    <!-- ======================================================================== -->
-
-    <div class="col-lg-3 col-md-3 col-sm-12 pr-0 mb-3">
-        <div class="card text-white bg-danger">
-<<<<<<< HEAD
-            <div class="card-header"><i class="fa fa-user-plus"></i> Indra</div>
-=======
 
     <div class="col-lg-3 col-md-3 col-sm-12 pr-0 mb-3">
         <div class="card text-white bg-danger">
             <div class="card-header"><i class="fa fa-user-plus"></i> Shelomita </div>
->>>>>>> atim
-=======
-            <div class="card-header"><i class="fa fa-user-plus"></i> jua /div>
->>>>>>> 5153235d2b9b8c68fcf67b50c88edf62240f770a
             <div class="card-body">
                 <h3 class="card-title">{{ $approvedRegistrations ?? 65 }}</h3>
             </div>
