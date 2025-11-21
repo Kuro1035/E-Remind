@@ -86,11 +86,7 @@ html { overflow-y: scroll; }
 
     <div class="col-lg-3 col-md-3 col-sm-12 pr-0 mb-3">
         <div class="card text-white bg-danger">
-<<<<<<< HEAD
             <div class="card-header"><i class="fa fa-user-plus"></i> jua /div>
-=======
-            <div class="card-header"><i class="fa fa-user-plus"></i> Natori</div>
->>>>>>> 7b0c81d864b2569c4db1f139691fd9e5325d095f
             <div class="card-body">
                 <h3 class="card-title">{{ $approvedRegistrations ?? 65 }}</h3>
             </div>
