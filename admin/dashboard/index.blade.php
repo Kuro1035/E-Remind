@@ -44,7 +44,7 @@ html { overflow-y: scroll; }
 <div class="row">
     <div class="col-lg-3 col-md-3 col-sm-12 pr-0 mb-3">
         <div class="card text-white bg-warning">
-            <div class="card-header"><i class="fa fa-user-plus"></i> User Registrations</div>
+            <div class="card-header"><i class="fa fa-user-plus"></i> Pengguna Registrasi</div>
             <div class="card-body">
                 <h3 class="card-title">{{ $userRegistrations ?? 44 }}</h3>
             </div>
@@ -54,7 +54,7 @@ html { overflow-y: scroll; }
 
     <div class="col-lg-3 col-md-3 col-sm-12 pr-0 mb-3">
         <div class="card text-white bg-info">
-            <div class="card-header"><i class="fa fa-user-plus"></i> Dosen Registrations</div>
+            <div class="card-header"><i class="fa fa-user-plus"></i> welcome najwa</div>
             <div class="card-body">
                 <h3 class="card-title">{{ $dosenRegistrations ?? 44 }}</h3>
             </div>
@@ -86,7 +86,11 @@ html { overflow-y: scroll; }
 
     <div class="col-lg-3 col-md-3 col-sm-12 pr-0 mb-3">
         <div class="card text-white bg-danger">
+<<<<<<< HEAD
             <div class="card-header"><i class="fa fa-user-plus"></i> ardi</div>
+=======
+            <div class="card-header"><i class="fa fa-user-plus"></i> jua /div>
+>>>>>>> bac21b52092266a08d7baa6262f0eb61233ddb9b
             <div class="card-body">
                 <h3 class="card-title">{{ $approvedRegistrations ?? 65 }}</h3>
             </div>
