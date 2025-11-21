@@ -44,7 +44,7 @@ html { overflow-y: scroll; }
 <div class="row">
     <div class="col-lg-3 col-md-3 col-sm-12 pr-0 mb-3">
         <div class="card text-white bg-warning">
-            <div class="card-header"><i class="fa fa-user-plus"></i> User Registrations</div>
+            <div class="card-header"><i class="fa fa-user-plus"></i>Welcome indra</div>
             <div class="card-body">
                 <h3 class="card-title">{{ $userRegistrations ?? 44 }}</h3>
             </div>
@@ -74,7 +74,6 @@ html { overflow-y: scroll; }
 
     <div class="col-lg-3 col-md-3 col-sm-12 pr-0 mb-3">
         <div class="card text-white bg-danger">
-            <div class="card-header"><i class="fa fa-user-plus"></i> Natori</div>
             <div class="card-header"><i class="fa fa-user-plus"></i> Natori</div>
             <div class="card-body">
                 <h3 class="card-title">{{ $approvedRegistrations ?? 65 }}</h3>
