@@ -64,7 +64,7 @@ html { overflow-y: scroll; }
 
     <div class="col-lg-3 col-md-3 col-sm-12 pr-0 mb-3">
         <div class="card text-white bg-success">
-            <div class="card-header"><i class="fa fa-user-plus"></i> Admin Registrations</div>
+            <div class="card-header"><i class="fa fa-user-plus"></i> Admin ardi</div>
             <div class="card-body">
                 <h3 class="card-title">{{ $adminRegistrations ?? 44 }}</h3>
             </div>
